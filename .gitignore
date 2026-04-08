@@ -24,3 +24,7 @@ firmware/.vscode/
 # IDE
 .idea/
 .vscode/
+
+# Docs
+*.docx
+make_doc.py
